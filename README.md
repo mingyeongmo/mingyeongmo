@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👻 Hi there 👻
+___
 
-<!--
-**mingyeongmo/mingyeongmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, My name is mingyeongmo.
 
-Here are some ideas to get you started:
+Welcome My github🙈🙈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My ability
+___
+
+- **Language** : C, Java, JavaScript .. etc 
+- **FrameWorks** : React
+- **My Dream** : Front-end Developer & millionaire
+
+## About me
+
+___
+
+- **email** : mingyeongmp@naver.com
+- **Discord** : 민경모#3893
+- **Instagram** : [min._m04](https://www.instagram.com/min._m04/)
+
+
+
