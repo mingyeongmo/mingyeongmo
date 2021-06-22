@@ -12,7 +12,7 @@ Welcome My github🙈🙈
 
 ## About me
 
-- **email** : mingyeongmp@naver.com
+- **email** : mingyeongmp@naver.com , mingyeongmo9854@gmail.com
 - **Discord** : 민경모#3893
 - **Instagram** : [min._m04](https://www.instagram.com/min._m04/)
 
