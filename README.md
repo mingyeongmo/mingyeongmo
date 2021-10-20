@@ -6,7 +6,7 @@ Welcome My github🙈🙈
 
 ## My ability
 
-- **Language** : C, Java, JavaScript .. etc 
+- **Language** : JavaScript
 - **FrameWorks** : React
 - **My Dream** : Front-end Developer & millionaire
 
