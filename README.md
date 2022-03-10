@@ -12,5 +12,5 @@ Welcome My github🙈🙈
 
 ## About me
 
-- **email** : mingyeongmp@naver.com , mingyeongmo9854@gmail.com
+- **email** : mingyeongmo9854@gmail.com
 - **Discord** : 민경모#3893
