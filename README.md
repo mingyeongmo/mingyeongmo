@@ -6,9 +6,9 @@ Welcome My github🙈🙈
 
 ## My ability
 
-- **Language** : JavaScript, TypeScript
+- **Language** : JavaScript & TypeScript
 - **FrameWorks** : React
-- **My Dream** : Front-end Developer & millionaire
+- **My Dream** : Frontend Developer & millionaire
 
 ## About me
 
