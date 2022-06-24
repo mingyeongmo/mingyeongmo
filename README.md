@@ -2,12 +2,13 @@
 
 Hello, My name is mingyeongmo.
 
-Welcome My github🙈🙈
+Welcome to My github🙈🙈
 
 ## My ability
 
 - **Language** : JavaScript & TypeScript
-- **FrameWorks** : React
+- **FrameWorks** : React, Next
+- **Library** : Recoil, Redux
 - **My Dream** : Frontend Developer & millionaire
 
 ## About me
