@@ -8,7 +8,7 @@ Welcome to My github🙈🙈
 
 - **Language** : JavaScript & TypeScript
 - **FrameWorks** : React, Next
-- **Library** : Recoil, Redux
+- **State Management** : Recoil, Redux
 - **My Dream** : Frontend Developer & millionaire
 
 ## About me
